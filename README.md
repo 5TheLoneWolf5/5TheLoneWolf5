@@ -18,4 +18,4 @@ Technology is a fundamental aspect of our lives, and I will be on hand to delive
 
 <p align="left"> <a href="https://www.linkedin.com/in/felipe-alves-nunes/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-* ✉️  You can contact me at [miloalvesnunes@gmail.com](mailto:miloalvesnunes@gmail.com)
+* ✉️  You can also contact me at [miloalvesnunes@gmail.com](mailto:miloalvesnunes@gmail.com)
