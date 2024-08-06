@@ -11,7 +11,7 @@ Technology is a fundamental aspect of our lives, and I will be on hand to delive
 
 ---
 
-Olá! Sou um estudante de Engenharia de Software inserido no mercado de TI.
+Saudações! Sou um estudante de Engenharia de Software inserido no mercado de TI.
 
 Meus conhecimentos e interesses se estendem através do espaço do Desenvolvimento de Software e Web; tanto no front-end como o back-end. Utilizo React, com foco na responsividade, boa UI e alta performance junto de tecnologias como Tailwind e Bootstrap para entregar um front-end rápido, bonito e user-friendly.
 
