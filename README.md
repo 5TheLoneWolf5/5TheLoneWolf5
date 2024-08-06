@@ -1,4 +1,4 @@
-Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
 Greetings! I'm a Software Engineering student working in the IT field.
