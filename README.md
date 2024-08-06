@@ -5,7 +5,7 @@ Greetings! I'm a Software Engineering student working in the IT field.
 
 My knowledge and interests extend across the Software and Web Development space; both front-end and back-end. I use React, with a focus on responsiveness, good UI and high performance along with technologies such as Tailwind and Bootstrap to deliver a fast, beautiful and user-friendly front-end.
 
-I develop RESTful applications with Java, Spring and Spring Boot, as well as in C# using Entity Framework and Razor Pages (following the MVC architecture). I also work with databases, data analysis and game development.
+I develop RESTful applications with Java and Spring Boot, as well as in C# using Entity Framework and Razor Pages (following the MVC architecture). I also work with databases, data analysis and game development.
 
 Technology is a fundamental aspect of our lives, and I will be on hand to deliver the best I can for the development of stable and secure programs. I am committed to continuous learning, professional growth, teamwork and clear communication to ensure the success of projects and deliveries.
 
