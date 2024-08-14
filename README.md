@@ -30,7 +30,7 @@ A tecnologia é um aspecto fundamental em nossas vidas; e estarei à disposiçã
 
 ### Resume | Currículo
 
-<a href="https://drive.google.com/file/d/1Yv-rqzo6K0XfXFsovZsWgj6InlQJYJd6/view?usp=sharing" target="_blank">💼 Available here! | Disponível aqui! 💼</a>
+<span>💼 <a href="https://drive.google.com/file/d/1Yv-rqzo6K0XfXFsovZsWgj6InlQJYJd6/view?usp=sharing" target="_blank">Available here!</a> | <a href="https://drive.google.com/file/d/1Z0GojeJfnMl-ttLvlI6pKz_2io4YWqZ5/view?usp=sharing" target="_blank">Disponível aqui!</a> 💼</span>
 
 ### LinkedIn
 
