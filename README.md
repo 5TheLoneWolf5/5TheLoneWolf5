@@ -17,7 +17,7 @@ Meus conhecimentos e interesses se estendem através do espaço do Desenvolvimen
 
 Desenvolvo aplicações RESTful com Java e Spring Boot, assim como em C# com o uso de Entity Framework e Razor Pages (seguindo a arquitetura MVC). Também tenho prática com banco de dados, análise de dados e desenvolvimento de jogos.
 
-A tecnologia é um aspecto fundamental em nossas vidas; e estarei à disposição para entregar o melhor que posso para o desenvolvimento de programas estáveis e seguros. Comprometo-me com o aprendizado contínuo, crescimento profissional, trabalho em equipe e comunicação clara para garantir o sucesso de projetos e entregas.
+A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposição para entregar o melhor que posso para o desenvolvimento de programas estáveis e seguros. Comprometo-me com o aprendizado contínuo, crescimento profissional, trabalho em equipe e comunicação clara para garantir o sucesso de projetos e entregas.
 
 ### Highlighted Projects | Projetos Destacados
 
