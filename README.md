@@ -1,4 +1,4 @@
-Hello there | Olá! 👋 — About Me
+Hello there | Olá! 👋 — About Me | Sobre Mim
 ==============================================================================================================================
 
 Greetings! I'm a Software Engineering student working in the IT field.
@@ -21,7 +21,7 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 <br />
 <br />
 
-## Competencies
+## Competencies | Competências
 
 ### Highlighted Projects | Projetos Destacados
 
@@ -85,7 +85,7 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 <br />
 <br />
 
-## Contact
+## Contact | Contato
 
 ### LinkedIn
 
