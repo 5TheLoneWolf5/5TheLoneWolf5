@@ -21,7 +21,19 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 
 ### Highlighted Projects | Projetos Destacados
 
-<div width="100%" align="center"><a href="https://github.com/5TheLoneWolf5/sistema-compras-acme" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=5TheLoneWolf5&repo=sistema-compras-acme&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=5TheLoneWolf5&repo=Sistema-Escola-Spark&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+ <a href="https://github.com/5TheLoneWolf5/sistema-compras-acme" align="left" style="text-decoration: none;">
+ <div align="right" width="45%" height="100%" style="background-color: gray;">
+      Sistema Compras Acme
+  </div>
+ </a>
+ <a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark" align="right" style="text-decoration: none;">
+  <div align="right" width="45%" height="100%" style="background-color: gray;">
+      Sistema Escola Spark
+  </div>
+ </a>
+</div>
+<br />
 
 ### Skills | Habilidades
 <p align="left">
