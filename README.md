@@ -1,4 +1,4 @@
-Hello there | Olá![](https://user-images.githubusercontent.com/18390557/176309783-0785949b-9127-417c-8b55-ab5a4339074e.gif)
+Hello there | Olá! 👋 
 ==============================================================================================================================
 
 Greetings! I'm a Software Engineering student working in the IT field.
@@ -21,20 +21,26 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 
 ### Highlighted Projects | Projetos Destacados
 
-<div width="100%" align="center">
- <a href="https://github.com/5TheLoneWolf5/sistema-compras-acme" style="text-decoration: none;">
- <div  width="45%" height="100%">
-      Sistema Compras Acme
-  </div>
-  <br />
- </a>
- <a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark" style="text-decoration: none;">
-  <div width="45%" height="100%"">
-      Sistema Escola Spark
-  </div>
- </a>
-</div>
-<br />
+<table width="100%" align="center">
+ <tr>
+  <td align="center">
+   <a href="https://github.com/5TheLoneWolf5/sistema-compras-acme">
+   <div>
+        Sistema Compras Acme
+    </div>
+   </a>
+  </td>
+ </tr>
+ <tr>
+   <td align="center">
+    <a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark">
+     <div align="center">
+         Sistema Escola Spark
+     </div>
+    </a>
+   </td>
+ </tr>
+</table>
 
 ### Skills | Habilidades
 
@@ -48,10 +54,10 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
     <td valign="top"><a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="150" height="150" alt="PHP" /></a></td>
     <td valign="top"><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="150" height="150" alt="Python" /></a></td>
     <td valign="top"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="150" height="150" alt="TypeScript" /></a></td>
-    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="150" height="150" alt="VS Code" /></a></td>
-    <td valign="top"><a href="https://www.sublimetext.com/index2"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="150" height="150" alt="Sublime Text" /></a></td>
+    <td valign="top"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="150" height="150" alt="VS Code" /></a></td>
     <td valign="top"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="150" height="150" alt="HTML5" /></a></td>
     <td valign="top"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="150" height="150" alt="React" /></a></td>
+    <td valign="top"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="150" height="150" /></a></td>
   </tr>
   <tr>
     <td valign="top"><a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="150" height="150" alt="CSS3" /></a></td>
@@ -65,6 +71,7 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
     <td valign="top"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="150" height="150" alt="Figma" /></a></td>
     <td valign="top"><a href="https://wordpress.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="150" height="150" alt="Wordpress" /></a></td>
     <td valign="top"><a href="https://dotnet.microsoft.com/en-us/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="150" height="150" alt=".NET" /></a></td>
+    <td valign="top"><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="150" height="150" /></a></td>
   </tr>
 </table>
 
@@ -74,7 +81,7 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 
 ### LinkedIn
 
-<p align="left"> <a href="https://www.linkedin.com/in/felipe-alves-nunes/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"><a href="https://www.linkedin.com/in/felipe-alves-nunes/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a></p>
 
 * ✉️  You can also contact me at: | Você também pode me contatar em:
   * [miloalvesnunes@gmail.com](mailto:miloalvesnunes@gmail.com)
