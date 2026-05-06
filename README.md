@@ -1,4 +1,4 @@
-Hello there | Olá! 👋 — About Me | Sobre Mim
+Hello there! — About Me | Olá! — Sobre Mim
 ==============================================================================================================================
 
 Greetings! I'm a Software Engineering student working in the IT field.
