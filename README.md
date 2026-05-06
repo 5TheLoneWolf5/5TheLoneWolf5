@@ -22,13 +22,13 @@ A tecnologia é um aspecto fundamental em nossas vidas, e estarei à disposiçã
 ### Highlighted Projects | Projetos Destacados
 
 <div width="100%" align="center">
- <a href="https://github.com/5TheLoneWolf5/sistema-compras-acme" align="left" style="text-decoration: none;">
- <div align="right" width="45%" height="100%" style="background-color: gray;">
+ <a href="https://github.com/5TheLoneWolf5/sistema-compras-acme" style="text-decoration: none;">
+ <div  width="45%" height="100%">
       Sistema Compras Acme
   </div>
  </a>
- <a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark" align="right" style="text-decoration: none;">
-  <div align="right" width="45%" height="100%" style="background-color: gray;">
+ <a href="https://github.com/5TheLoneWolf5/Sistema-Escola-Spark" style="text-decoration: none;">
+  <div width="45%" height="100%"">
       Sistema Escola Spark
   </div>
  </a>
